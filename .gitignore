@@ -1,0 +1,8 @@
+## IGNORE FILE ##
+*.cfg
+*.log
+*.csv
+*.mat
+*.txt
+.ipynb_checkpoints/
+venv/
