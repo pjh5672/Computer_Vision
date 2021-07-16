@@ -4,5 +4,9 @@
 *.csv
 *.mat
 *.txt
+*.jpg
+
+*.pth
+
 .ipynb_checkpoints/
-venv/
+__pycache__/
