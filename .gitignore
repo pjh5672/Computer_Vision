@@ -7,6 +7,8 @@
 *.jpg
 
 *.pth
+*.pb
+*.onnx
 
 data/
 .ipynb_checkpoints/
