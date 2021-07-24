@@ -10,6 +10,7 @@ This is repository for source codes to activate computer vision models.
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
+| Jul/24/2021 | torch tutorial: pretrained vision model finetuning update |
 | Jul/23/2021 | SSD module(3) : ssd step-by-step code review update |
 | Jul/18/2021 | torch tutorial: introduction, learning torch module with example, tensorboard usage update |
 | Jul/17/2021 | SSD module(2) : ssd architecture re-update |
