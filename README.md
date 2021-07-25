@@ -11,7 +11,7 @@ The sub directory configuration is given below.
  - What_CNN_recognize : CNN interpretability experiment note
  - Single_Shot_Detector : SSD modeling from basic to the one with mobilenet 
  - Torch_Tutorial : step-by-step on PyTorch Tutorials 
----
+----
   
 ## Updates
 | Date | Commit Message |
