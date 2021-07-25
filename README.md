@@ -16,7 +16,7 @@ The sub directory configuration is given below.
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Jul/25/2021 | torch tutorial: instance segmentation model evaluation update |
+| Jul/25/2021 | torch tutorial: instance segmentation & transfer learning model evaluation update |
 | Jul/24/2021 | torch tutorial: pretrained vision model finetuning update |
 | Jul/23/2021 | SSD module(3) : ssd step-by-step code review update |
 | Jul/18/2021 | torch tutorial: introduction, learning torch module with example, tensorboard usage update |
