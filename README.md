@@ -5,8 +5,7 @@ Email: pjh5672.dev@gmail.com
 ````
 
 ## Descriptions  
-This is repository for source codes to activate computer vision models.   
-The sub directory configuration is given below.  
+This is repository for source codes to activate computer vision models. The sub directory configuration is given below.  
 
 ---
  - What_CNN_recognize : CNN interpretability experiment note
