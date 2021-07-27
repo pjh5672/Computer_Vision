@@ -9,7 +9,12 @@
 *.pth
 *.pb
 *.onnx
+*.pt
+*.ptl
+*.gz
 
+cifar-10-batches-py/
+MNIST/
 data/
 .ipynb_checkpoints/
 __pycache__/
