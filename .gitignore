@@ -2,9 +2,6 @@
 *.cfg
 *.log
 *.csv
-*.mat
-*.txt
-*.jpg
 
 *.pth
 *.pb
@@ -13,8 +10,12 @@
 *.ptl
 *.gz
 
-cifar-10-batches-py/
-MNIST/
+*.png
+*.jpg
+
+*.pdf
+
 data/
+MNIST/
 .ipynb_checkpoints/
 __pycache__/

@@ -17,7 +17,7 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Commit Message |
 |:----:|:----|
-| Jul/29/2021 | computer vision with opencv : new directory create |
+| Jul/29/2021 | computer vision with opencv : new directory create, simple transformation, drawing 2d primitives on images update |
 | Jul/28/2021 | torch tutorial: torchscript tutorial, hyperparamter tuning with ray tune update |
 | Jul/25/2021 | torch tutorial: instance segmentation & transfer learning model evaluation update |
 | Jul/24/2021 | torch tutorial: pretrained vision model finetuning update |
