@@ -11,11 +11,13 @@ This is repository for source codes to activate computer vision models. The sub 
  - What_CNN_recognize : CNN interpretability experiment note
  - Single_Shot_Detector : SSD modeling from basic to the one with mobilenet 
  - Torch_Tutorial : step-by-step on PyTorch Tutorials 
+ - Computer_Vision_with_OpenCV : design for solving real computer vision tasks using OpenCV
 ---
   
 ## Updates
 | Date | Commit Message |
 |:----:|:----|
+| Jul/29/2021 | computer vision with opencv : new directory create |
 | Jul/28/2021 | torch tutorial: torchscript tutorial, hyperparamter tuning with ray tune update |
 | Jul/25/2021 | torch tutorial: instance segmentation & transfer learning model evaluation update |
 | Jul/24/2021 | torch tutorial: pretrained vision model finetuning update |
