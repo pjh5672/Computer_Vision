@@ -17,6 +17,7 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Commit Message |
 |:----:|:----|
+| Aug/01/2021 | computer vision with opencv : chapter4-9 finishing |
 | Jul/31/2021 | computer vision with opencv : chapter 2 image manipulations with filtering, chapter3 contours and segmentation, sub-directories for chapters update |
 | Jul/30/2021 | computer vision with opencv : chapter 1 image, video basics update |
 | Jul/29/2021 | computer vision with opencv : new directory create, simple transformation, drawing 2d primitives on images update |
