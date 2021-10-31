@@ -16,6 +16,7 @@
 *.pdf
 
 data/
+FMNIST/
 MNIST/
 .ipynb_checkpoints/
 __pycache__/

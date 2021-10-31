@@ -16,8 +16,10 @@ This is repository for source codes to activate computer vision models. The sub 
 ---
   
 ## Updates
-| Date | Commit Message |
+| Date | Contents |
 |:----:|:----|
+| 2021-10-31 | Fundamentals of Deep learning for computer vision (ANN & Torch fundamentals) |
+| --- | --- |
 | Aug/28/2021 | FCOS, OpenCV_Projects update |
 | Aug/01/2021 | computer vision with opencv : chapter4-9 finishing, sub-directories for modern computer vision with torch update |
 | Jul/31/2021 | computer vision with opencv : chapter 2 image manipulations with filtering, chapter3 contours and segmentation, sub-directories for chapters update |
