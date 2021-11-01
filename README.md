@@ -18,6 +18,7 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Contents |
 |:----:|:----|
+| 2021-11-01 | Building a Deep Neural Network with Torch |
 | 2021-10-31 | Fundamentals of Deep learning for computer vision (ANN & Torch fundamentals) |
 | --- | --- |
 | Aug/28/2021 | FCOS, OpenCV_Projects update |
