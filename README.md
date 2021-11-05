@@ -18,6 +18,7 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Contents |
 |:----:|:----|
+| 2021-11-02 | Transfer learning - Understanding VGG16, ResNet Arch., Multi-task learning (age & gender estimation) |
 | 2021-11-02 | The problem with traditional DNN, building blocks of CNN, and implementing data augmentation |
 | 2021-11-01 | Building a Deep Neural Network with Torch |
 | 2021-10-31 | Fundamentals of Deep learning for computer vision (ANN & Torch fundamentals) |
