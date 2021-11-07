@@ -9,6 +9,7 @@
 *.pt
 *.ptl
 *.gz
+*.ppm
 
 *.png
 *.jpg
