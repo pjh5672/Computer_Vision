@@ -2,7 +2,10 @@
 *.cfg
 *.log
 *.csv
+*.txt
+*.json
 
+*.pickle
 *.pth
 *.pb
 *.onnx
