@@ -18,6 +18,8 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Contents |
 |:----:|:----|
+| 2022-01-02 | Advanced Object Detection - Training Faster-RCNN, YOLOv4, and SSD Detector |
+| 2022-01-01 | Happy New Years! :) |
 | 2021-11-28 | Basic of Object Detection - calculate IOU, Implementing R-CNN, Fast R-CNN model |
 | 2021-11-07 | Generating CAMs, the impact of BatchNormalization & Data Augmentation |
 | 2021-11-06 | Understanding VGG16, ResNet Arch., Multi-task learning (age & gender estimation) |
