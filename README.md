@@ -23,6 +23,7 @@ This is repository for source codes to activate computer vision models. The sub 
 | 2022-01-01 | Happy New Years! :) |
 
 <details><summary> <b>Archive(~2021)</b> </summary>  
+ 
 | Date | Contents |
 |:----:|:----|
 | 2021-11-28 | Basic of Object Detection - calculate IOU, Implementing R-CNN, Fast R-CNN model |
@@ -45,5 +46,6 @@ This is repository for source codes to activate computer vision models. The sub 
 | Jul/17/2021 | SSD module(2) : ssd architecture re-update |
 | Jul/04/2021 | SSD module(1) : ssd architecture, default anchor box implementation update |
 | Apr/20/2021 | new creation, existing experiment perceptual CNN test codes update |
+ 
 </details>
 
