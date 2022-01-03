@@ -22,7 +22,7 @@ This is repository for source codes to activate computer vision models. The sub 
 | 2022-01-02 | Advanced Object Detection - Training Faster-RCNN, YOLOv4, and SSD Detector |
 | 2022-01-01 | Happy New Years! :) |
 
-<details><summary> <b>archive(~2021)</b> </summary>
+<details><summary> <b>Archive(~2021)</b> </summary>  
 | Date | Contents |
 |:----:|:----|
 | 2021-11-28 | Basic of Object Detection - calculate IOU, Implementing R-CNN, Fast R-CNN model |
