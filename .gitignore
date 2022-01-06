@@ -4,6 +4,7 @@
 *.csv
 *.txt
 *.json
+*.zip
 
 *.pickle
 *.pth
