@@ -18,6 +18,7 @@ This is repository for source codes to activate computer vision models. The sub 
 ## Updates
 | Date | Contents |
 |:----:|:----|
+| 2022-01-06 | Modern Computer vision with Torch all chapter notebook files update |
 | 2022-01-03 | Image Segmentation - Exploring U-Net for semantic segmentation, Mask R-CNN for instance segmentation |
 | 2022-01-02 | Advanced Object Detection - Training Faster-RCNN, YOLOv4, and SSD Detector |
 | 2022-01-01 | Happy New Years! :) |
